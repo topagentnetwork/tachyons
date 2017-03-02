@@ -106,6 +106,10 @@
 /*.hover-washed-red:hover,*/
 /*.hover-washed-red:focus { color: var(--washed-red); }*/
 
+
+
+/* Hover Colors */
+
 .hover-blue:hover,
 .hover-blue:focus { color: var(--blue); }
 .hover-dark-navy:hover,
@@ -195,3 +199,21 @@
 .hover-bg-gold:hover,
 .hover-bg-gold:focus { background-color: var(--gold); }
 
+
+
+/* Hover Borders */
+
+.hover-b--black:hover       { border-color: var(--black); }
+.hover-b--white:hover       { border-color: var(--white); }
+
+.hover-b--transparent:hover { border-color: var(--transparent); }
+
+.hover-b--blue:hover        { border-color: var(--blue); }
+.hover-b--dark-navy:hover   { border-color: var(--dark-navy); }
+.hover-b--navy:hover        { border-color: var(--navy); }
+.hover-b--light-navy:hover  { border-color: var(--light-navy); }
+.hover-b--dark-gray:hover   { border-color: var(--dark-gray); }
+.hover-b--gray:hover        { border-color: var(--gray); }
+.hover-b--light-gray:hover  { border-color: var(--light-gray); }
+.hover-b--dark-gold:hover   { border-color: var(--dark-gold); }
+.hover-b--gold:hover        { border-color: var(--gold); }

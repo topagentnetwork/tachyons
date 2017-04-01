@@ -43,6 +43,7 @@
 .light-gray     { color: var(--light-gray);             }
 .dark-gold      { color: var(--dark-gold);              }
 .gold           { color: var(--gold);                   }
+.red            { color: var(--red);                    }
 
 
 /* Background colors */
@@ -81,3 +82,4 @@
 .bg-light-gray  { background-color: var(--light-gray);  }
 .bg-dark-gold   { background-color: var(--dark-gold);   }
 .bg-gold        { background-color: var(--gold);        }
+.bg-red         { background-color: var(--red);         }

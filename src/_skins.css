@@ -34,6 +34,7 @@
 
 .transparent    { color: var(--transparent);            }
 
+.dark-blue      { color: var(--dark-blue);              }
 .blue           { color: var(--blue);                   }
 .dark-navy      { color: var(--dark-navy);              }
 .navy           { color: var(--navy);                   }
@@ -73,6 +74,7 @@
 
 .bg-transparent { background-color: var(--transparent); }
 
+.bg-dark-blue   { background-color: var(--dark-blue);   }
 .bg-blue        { background-color: var(--blue);        }
 .bg-dark-navy   { background-color: var(--dark-navy);   }
 .bg-navy        { background-color: var(--navy);        }

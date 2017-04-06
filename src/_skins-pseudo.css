@@ -24,6 +24,8 @@
 
 /* Hover Colors */
 
+.hover-dark-blue:hover,
+.hover-dark-blue:focus      { color: var(--dark-blue);              }
 .hover-blue:hover,
 .hover-blue:focus           { color: var(--blue);                   }
 .hover-dark-navy:hover,
@@ -45,6 +47,8 @@
 .hover-red:hover,
 .hover-red:focus            { color: var(--red);                    }
 
+.hover-bg-dark-blue:hover,
+.hover-bg-dark-blue:focus   { background-color: var(--dark-blue);   }
 .hover-bg-blue:hover,
 .hover-bg-blue:focus        { background-color: var(--blue);        }
 .hover-bg-dark-navy:hover,
@@ -75,6 +79,7 @@
 
 .hover-b--transparent:hover { border-color: var(--transparent);     }
 
+.hover-b--dark-blue:hover   { border-color: var(--dark-blue);       }
 .hover-b--blue:hover        { border-color: var(--blue);            }
 .hover-b--dark-navy:hover   { border-color: var(--dark-navy);       }
 .hover-b--navy:hover        { border-color: var(--navy);            }

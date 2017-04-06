@@ -49,6 +49,7 @@
 .b--black-025   { border-color: var(--black-025);   }
 .b--black-0125  { border-color: var(--black-0125);  }
 
+.b--dark-blue   { border-color: var(--dark-blue);   }
 .b--blue        { border-color: var(--blue);        }
 .b--dark-navy   { border-color: var(--dark-navy);   }
 .b--navy        { border-color: var(--navy);        }
